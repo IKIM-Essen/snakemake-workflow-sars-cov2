@@ -21,7 +21,7 @@ report: "report/workflow.rst"
 container: "docker://condaforge/mambaforge"
 
 
-containerized: "quay.io/uncovar/uncovar#1.1.1"
+containerized: "quay.io/uncovar/uncovar#1.1.2"
 
 
 include: "rules/common.smk"

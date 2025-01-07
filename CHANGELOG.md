@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/IKIM-Essen/uncovar/compare/v1.1.1...v1.1.2) (2024-11-07)
+
+
+### Bug Fixes
+
+* properly write to log file in order_contigs rule ([#677](https://github.com/IKIM-Essen/uncovar/issues/677)) ([093fb55](https://github.com/IKIM-Essen/uncovar/commit/093fb55522b3c598256e8fc53b96f9bb9b2882c5))
+* update pangolin to 4.3.1 ([#675](https://github.com/IKIM-Essen/uncovar/issues/675)) ([b16b3e3](https://github.com/IKIM-Essen/uncovar/commit/b16b3e3067e2d188227f80f1a637f76b5a8fdfab))
+
 ## [1.1.1](https://github.com/IKIM-Essen/uncovar/compare/v1.1.0...v1.1.1) (2024-11-04)
 
 
