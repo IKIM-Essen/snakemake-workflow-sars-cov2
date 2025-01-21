@@ -111,7 +111,7 @@ jobs:
 
       - name: Create Dockerfile
         if: ${{ steps.release.outputs.release_created == 'true' }}
-        uses: snakemake/snakemake-github-action@v1.25.1
+        uses: snakemake/snakemake-github-action@v2.0.0
         with:
           directory: .
           snakefile: workflow/Snakefile
